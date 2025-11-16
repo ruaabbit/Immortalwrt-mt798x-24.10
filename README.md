@@ -1,6 +1,6 @@
-237 大佬 Immortalwrt 24.10 源码（闭源 MTK 驱动）编译小米 WR20U 固件。
+237 大佬 Immortalwrt 24.10 源码（闭源 MTK 驱动）编译小米 WR30U 固件。
 
-云编译小米 WR30U/WR30T 固件，个人自用编译固件，刷机有风险。
+云编译小米 WR30U 固件，个人自用编译固件，刷机有风险。
 
 237 大佬源码网址:
 [https://github.com/padavanonly/immortalwrt-mt798x-24.10](https://github.com/padavanonly/immortalwrt-mt798x-24.10)
